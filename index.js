@@ -22,3 +22,4 @@ if (n === compGuess) {
 console.log(n);
 console.log(compGuess);
 //adding a comment
+//adding second comment
